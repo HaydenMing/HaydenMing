@@ -1,0 +1,3 @@
+- Hi, I'm HaydenMing.
+- I'm just an undergraduate student. Glad to join github!
+- Looking forward to meet creative ideas here!!!
